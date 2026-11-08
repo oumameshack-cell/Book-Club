@@ -1,0 +1,8 @@
+{
+  "name": "Book Club",
+  "description": "An all-in-one mobile-first academic digital library, e-reader, revision & examination platform, resource marketplace, and AI study companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
